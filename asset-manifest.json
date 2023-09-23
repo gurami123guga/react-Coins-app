@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gurami123guga/react-Coins-app/static/css/main.a50997a5.css",
-    "main.js": "/gurami123guga/react-Coins-app/static/js/main.a2e43a86.js",
-    "index.html": "/gurami123guga/react-Coins-app/index.html",
-    "main.a50997a5.css.map": "/gurami123guga/react-Coins-app/static/css/main.a50997a5.css.map",
-    "main.a2e43a86.js.map": "/gurami123guga/react-Coins-app/static/js/main.a2e43a86.js.map"
+    "main.css": "/react-Coins-app/static/css/main.a50997a5.css",
+    "main.js": "/react-Coins-app/static/js/main.a2e43a86.js",
+    "index.html": "/react-Coins-app/index.html",
+    "main.a50997a5.css.map": "/react-Coins-app/static/css/main.a50997a5.css.map",
+    "main.a2e43a86.js.map": "/react-Coins-app/static/js/main.a2e43a86.js.map"
   },
   "entrypoints": [
     "static/css/main.a50997a5.css",
